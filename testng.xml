@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suite project" parallel="true">  <!--  name    套件的名称 运行多个class时parallel为true-->
+    <test name="Test" enabled="true">
+        <parameter name="excelPath" value="caseData/caseData.xlsx"/>
+        <!--存发变量，可以使用@Test(parameter="name的名称")来获取后面的value为case作为入参        -->
+        <parameter name="dataSheetName" value="v4_scenesCase"/>
+<!--                <package>-->
+<!--                    <package name="testCases.TestRunFIles"/>-->
+<!--                    <package name="testCases.TestJDBC"/>-->
+<!--                </package>-->
+        <!--        <groups>  &lt;!&ndash;  运行分组的组名 &ndash;&gt;-->
+        <!--            <incloud name="group1"></incloud>-->
+        <!--        </groups>-->
+        <classes> <!--  运行测试用例的路径和名称 -->
+            <class name="testCases.TestA01"/>
+            <class name="testCases.TestJDBC"/>
+            <class name="testCases.TestLogin"/>
+            <class name="testCases.TestRunFIles"/>
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+        <!--
+        1、suite标签
+        testNG.xml文件的最外层标签即suite，即测试套件，其下可以有多个<test>和<groups>，其有几个可以添加的属性在第十节的分suite测试中有做说明，这里做下详细说明：
+
+        (1)、name属性
+        此属性属于必须要有的，值可以自行设定，此名字会在testNG的报告中看到
+
+        (2)、verbose属性
+        此属性为指定testNG报告的详细程度，从0开始到10，其中10为最详细，默认生成的xml此属性值为1
+
+        (3)、parallel属性
+        此属性是指代运行方式，默认为none，即串行运行方式；并行执行方法包括如下几种，下面做分别说明
+
+        -->

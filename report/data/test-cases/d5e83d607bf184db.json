@@ -1,0 +1,70 @@
+{
+  "uid" : "d5e83d607bf184db",
+  "name" : "查询数据库",
+  "fullName" : "testCases.TestJDBC.testJDBC",
+  "historyId" : "4cae299c91c8afa272e6ae5e42583f42",
+  "time" : {
+    "start" : 1700030504729,
+    "stop" : 1700030504916,
+    "duration" : 187
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCases.TestJDBC"
+  }, {
+    "name" : "testClass",
+    "value" : "testCases.TestJDBC"
+  }, {
+    "name" : "testMethod",
+    "value" : "testJDBC"
+  }, {
+    "name" : "parentSuite",
+    "value" : "suite project"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCases.TestJDBC"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-UIN85NG6"
+  }, {
+    "name" : "thread",
+    "value" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-1(28)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "系统级别"
+  }, {
+    "name" : "epic",
+    "value" : "项目级别"
+  }, {
+    "name" : "story",
+    "value" : "测试数据库"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5e83d607bf184db.json",
+  "parameterValues" : [ ]
+}

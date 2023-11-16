@@ -1,0 +1,197 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-UIN85NG6",
+    "children" : [ {
+      "name" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-5(33)",
+      "children" : [ {
+        "name" : "文件运行接口",
+        "uid" : "a4cdeecfbdd29532",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030505155,
+          "stop" : 1700030505200,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "输入验证码接口",
+        "uid" : "6f8308ed5d586cf4",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030506217,
+          "stop" : 1700030506413,
+          "duration" : 196
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=1, callCoding=+86, login={\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiIwY2IxYWM3Ny05NGY3LTQ4YjItYWUzNi0xYzZmNzQyNjNmOWMiLCJleHAiOjE3MDAxMTUxODd9.FM8eH5AtwIo5mOGFXrxvf35PeJ4pRnHSuKRjUbOpyuk\"}}" ]
+      }, {
+        "name" : "登录接口测试",
+        "uid" : "2ad56d436a2d51cd",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1700030506960,
+          "stop" : 1700030507164,
+          "duration" : 204
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=3, callCoding=+86, login=}" ]
+      }, {
+        "name" : "查看账户中文件运行状态的接口",
+        "uid" : "ebcd69145b3ab139",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030505279,
+          "stop" : 1700030505307,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录接口测试",
+        "uid" : "c3f47f7225590ebc",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030506719,
+          "stop" : 1700030506831,
+          "duration" : 112
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=1, callCoding=+86, login={\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiIwY2IxYWM3Ny05NGY3LTQ4YjItYWUzNi0xYzZmNzQyNjNmOWMiLCJleHAiOjE3MDAxMTUxODd9.FM8eH5AtwIo5mOGFXrxvf35PeJ4pRnHSuKRjUbOpyuk\"}}" ]
+      }, {
+        "name" : "查看接口的运行状态",
+        "uid" : "e8ac7820e7530299",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030505204,
+          "stop" : 1700030505276,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录接口测试",
+        "uid" : "8e4e7bb671cf6c67",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1700030506834,
+          "stop" : 1700030506955,
+          "duration" : 121
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=2, callCoding=+86, login=}" ]
+      }, {
+        "name" : "输入验证码接口",
+        "uid" : "50195d2f80ecbc46",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030506417,
+          "stop" : 1700030506531,
+          "duration" : 114
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=2, callCoding=+86, login=}" ]
+      }, {
+        "name" : "文件上传接口",
+        "uid" : "ccf8f3fac61d9ae0",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030505087,
+          "stop" : 1700030505152,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "输入验证码接口",
+        "uid" : "10dca62db20a8581",
+        "parentUid" : "4d97aa880558cac71680bdf8a230369e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030506535,
+          "stop" : 1700030506692,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=3, callCoding=+86, login=}" ]
+      } ],
+      "uid" : "4d97aa880558cac71680bdf8a230369e"
+    }, {
+      "name" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-4(32)",
+      "children" : [ {
+        "name" : "增加数据到数据库",
+        "uid" : "c1b929b27b8cf76a",
+        "parentUid" : "8a97f3b3c1b3c884a2dbd2e6486bca3e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030505062,
+          "stop" : 1700030505083,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a97f3b3c1b3c884a2dbd2e6486bca3e"
+    }, {
+      "name" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-3(31)",
+      "children" : [ {
+        "name" : "增加数据到数据库",
+        "uid" : "b9b522a9540a849",
+        "parentUid" : "b8686b5351627d5a1fe47b5310460311",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030505033,
+          "stop" : 1700030505058,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8686b5351627d5a1fe47b5310460311"
+    }, {
+      "name" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-1(28)",
+      "children" : [ {
+        "name" : "查询数据库",
+        "uid" : "d5e83d607bf184db",
+        "parentUid" : "ded16efbb8936a30910984d10906a856",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030504729,
+          "stop" : 1700030504916,
+          "duration" : 187
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ded16efbb8936a30910984d10906a856"
+    }, {
+      "name" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-2(30)",
+      "children" : [ {
+        "name" : "测试通过数据库的表对象获取数据",
+        "uid" : "ca239b99d902591b",
+        "parentUid" : "cf2830f2121890cddabdce195b06ff61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700030504991,
+          "stop" : 1700030505022,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf2830f2121890cddabdce195b06ff61"
+    } ],
+    "uid" : "27609c99e22357d1a8db8c4c4b21a6b3"
+  } ]
+}

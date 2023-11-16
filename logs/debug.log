@@ -1,0 +1,15 @@
+2023-11-16 11:17:55  [ TestNG-test=Test-2:0 ] - [ INFO ]  数据查询测试执行成功
+  2023-11-16 11:17:55  [ TestNG-test=Test-3:41 ] - [ INFO ]  数据对象查询测试执行成功
+  2023-11-16 11:17:55  [ TestNG-test=Test-4:73 ] - [ INFO ]  增加数据库数据测试执行成功
+  2023-11-16 11:17:55  [ TestNG-test=Test-5:98 ] - [ INFO ]  删除数据库数据测试执行成功
+  2023-11-16 11:17:56  [ TestNG-test=Test-5:315 ] - [ INFO ]  文件上传接口测试成功
+  2023-11-16 11:17:56  [ TestNG-test=Test-5:353 ] - [ INFO ]  文件运行接口测试成功
+  2023-11-16 11:17:56  [ TestNG-test=Test-5:427 ] - [ DEBUG ]  Evaluating path: $['data']['executeState']
+  2023-11-16 11:17:56  [ TestNG-test=Test-5:431 ] - [ INFO ]  查看接口的运行状态测试成功
+  2023-11-16 11:17:56  [ TestNG-test=Test-5:454 ] - [ DEBUG ]  Evaluating path: $['data']['list'][0]['executeState']
+  2023-11-16 11:17:56  [ TestNG-test=Test-5:455 ] - [ INFO ]  查看账户中文件运行状态的接口测试成功
+  2023-11-16 11:17:57  [ TestNG-test=Test-5:1998 ] - [ INFO ]  验证测试执行成功
+  2023-11-16 11:17:57  [ TestNG-test=Test-5:2165 ] - [ INFO ]  验证测试执行成功
+  2023-11-16 11:17:58  [ TestNG-test=Test-5:2307 ] - [ INFO ]  验证测试执行成功
+  2023-11-16 11:17:58  [ TestNG-test=Test-5:2444 ] - [ INFO ]  登录测试执行成功
+  

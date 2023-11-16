@@ -1,0 +1,84 @@
+{
+  "uid" : "c3f47f7225590ebc",
+  "name" : "登录接口测试",
+  "fullName" : "testCases.TestLogin.login",
+  "historyId" : "14bdeffdef02509a9551171bccd5c927",
+  "time" : {
+    "start" : 1700030506719,
+    "stop" : 1700030506831,
+    "duration" : 112
+  },
+  "description" : "登录接口测试1",
+  "descriptionHtml" : "<p>登录接口测试1</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCases.TestLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "testCases.TestLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "suite project"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCases.TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-UIN85NG6"
+  }, {
+    "name" : "thread",
+    "value" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-5(33)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "项目级别"
+  }, {
+    "name" : "feature",
+    "value" : "共享算力系统"
+  }, {
+    "name" : "story",
+    "value" : "登录模块"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "{phoneNuber=18316367890, code=200, validateCode=000000, id=1, callCoding=+86, login={\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiIwY2IxYWM3Ny05NGY3LTQ4YjItYWUzNi0xYzZmNzQyNjNmOWMiLCJleHAiOjE3MDAxMTUxODd9.FM8eH5AtwIo5mOGFXrxvf35PeJ4pRnHSuKRjUbOpyuk\"}}"
+  } ],
+  "links" : [ {
+    "name" : "BUG号：124",
+    "type" : "issue"
+  }, {
+    "name" : "https://www.jianshu.com/p/1424f50a38b8",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3f47f7225590ebc.json",
+  "parameterValues" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=1, callCoding=+86, login={\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiIwY2IxYWM3Ny05NGY3LTQ4YjItYWUzNi0xYzZmNzQyNjNmOWMiLCJleHAiOjE3MDAxMTUxODd9.FM8eH5AtwIo5mOGFXrxvf35PeJ4pRnHSuKRjUbOpyuk\"}}" ]
+}

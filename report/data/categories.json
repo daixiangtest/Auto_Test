@@ -1,0 +1,37 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [200] but found [400]",
+      "children" : [ {
+        "name" : "登录接口测试",
+        "uid" : "8e4e7bb671cf6c67",
+        "parentUid" : "2498ba54991b571ff1a202544441206d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1700030506834,
+          "stop" : 1700030506955,
+          "duration" : 121
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=2, callCoding=+86, login=}" ]
+      }, {
+        "name" : "登录接口测试",
+        "uid" : "2ad56d436a2d51cd",
+        "parentUid" : "2498ba54991b571ff1a202544441206d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1700030506960,
+          "stop" : 1700030507164,
+          "duration" : 204
+        },
+        "flaky" : false,
+        "parameters" : [ "{phoneNuber=18316367890, code=200, validateCode=000000, id=3, callCoding=+86, login=}" ]
+      } ],
+      "uid" : "2498ba54991b571ff1a202544441206d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

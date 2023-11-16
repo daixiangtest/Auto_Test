@@ -1,0 +1,2 @@
+2023-11-14 11:13:53  [ main:135 ] - [ ERROR ]  增加数据库数据测试失败java.lang.RuntimeException: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3' for key 'test.PRIMARY'
+  

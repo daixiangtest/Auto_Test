@@ -1,0 +1,141 @@
+[ {
+  "uid" : "a4cdeecfbdd29532",
+  "name" : "文件运行接口",
+  "time" : {
+    "start" : 1700030505155,
+    "stop" : 1700030505200,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1b929b27b8cf76a",
+  "name" : "增加数据到数据库",
+  "time" : {
+    "start" : 1700030505062,
+    "stop" : 1700030505083,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9b522a9540a849",
+  "name" : "增加数据到数据库",
+  "time" : {
+    "start" : 1700030505033,
+    "stop" : 1700030505058,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f8308ed5d586cf4",
+  "name" : "输入验证码接口",
+  "time" : {
+    "start" : 1700030506217,
+    "stop" : 1700030506413,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2ad56d436a2d51cd",
+  "name" : "登录接口测试",
+  "time" : {
+    "start" : 1700030506960,
+    "stop" : 1700030507164,
+    "duration" : 204
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "ebcd69145b3ab139",
+  "name" : "查看账户中文件运行状态的接口",
+  "time" : {
+    "start" : 1700030505279,
+    "stop" : 1700030505307,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3f47f7225590ebc",
+  "name" : "登录接口测试",
+  "time" : {
+    "start" : 1700030506719,
+    "stop" : 1700030506831,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "d5e83d607bf184db",
+  "name" : "查询数据库",
+  "time" : {
+    "start" : 1700030504729,
+    "stop" : 1700030504916,
+    "duration" : 187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8ac7820e7530299",
+  "name" : "查看接口的运行状态",
+  "time" : {
+    "start" : 1700030505204,
+    "stop" : 1700030505276,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e4e7bb671cf6c67",
+  "name" : "登录接口测试",
+  "time" : {
+    "start" : 1700030506834,
+    "stop" : 1700030506955,
+    "duration" : 121
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "50195d2f80ecbc46",
+  "name" : "输入验证码接口",
+  "time" : {
+    "start" : 1700030506417,
+    "stop" : 1700030506531,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "ccf8f3fac61d9ae0",
+  "name" : "文件上传接口",
+  "time" : {
+    "start" : 1700030505087,
+    "stop" : 1700030505152,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca239b99d902591b",
+  "name" : "测试通过数据库的表对象获取数据",
+  "time" : {
+    "start" : 1700030504991,
+    "stop" : 1700030505022,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10dca62db20a8581",
+  "name" : "输入验证码接口",
+  "time" : {
+    "start" : 1700030506535,
+    "stop" : 1700030506692,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

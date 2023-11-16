@@ -1,0 +1,70 @@
+{
+  "uid" : "ccf8f3fac61d9ae0",
+  "name" : "文件上传接口",
+  "fullName" : "testCases.TestRunFIles.testUploadScript",
+  "historyId" : "14c3ce43c2c6c9d15d046b1cc5ce4602",
+  "time" : {
+    "start" : 1700030505087,
+    "stop" : 1700030505152,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCases.TestRunFIles"
+  }, {
+    "name" : "testClass",
+    "value" : "testCases.TestRunFIles"
+  }, {
+    "name" : "testMethod",
+    "value" : "testUploadScript"
+  }, {
+    "name" : "parentSuite",
+    "value" : "suite project"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCases.TestRunFIles"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-UIN85NG6"
+  }, {
+    "name" : "thread",
+    "value" : "10340@LAPTOP-UIN85NG6.TestNG-test=Test-5(33)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "运行文件模块"
+  }, {
+    "name" : "feature",
+    "value" : "共享算力系统"
+  }, {
+    "name" : "epic",
+    "value" : "项目级别"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccf8f3fac61d9ae0.json",
+  "parameterValues" : [ ]
+}
