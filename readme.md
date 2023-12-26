@@ -6,6 +6,8 @@
 - maven 用来管理项目所需要的依赖库以及打包测试项目生成allure报告，在pom.xml中进行操作  
 - testng用来管理测试用例并记录报告信息为用例添加断言  
 - allure 用来生成报告展示效果
+## 基础代码学习
+- java基础学习可以[点击这里查看](src/main/java/java_basics)
 ## 项目的目录介绍  
 - logs:用来记录测试用例执行的日志信息
 - report: 存放的allure的结果报告
